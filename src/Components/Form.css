@@ -1,0 +1,47 @@
+.star-sym{
+    color: #B72D2D;   
+   }
+
+   .form-control{
+    height: 35px;
+}
+
+.form-select{
+    height: 35px;
+}
+
+.p-details{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cancel-btn{
+    background: transparent;
+    border: 1px solid #B72D2D;
+    color: #B72D2D;
+    padding: 0.3rem 2rem 0.3rem 2rem;
+    border-radius: 0.4rem;
+}
+
+.form-error{
+    color: #B72D2D;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.006em;
+}
+
+.submit-btn{
+    border: none;
+    color: #FFF;
+    padding: 0.3rem 2rem 0.3rem 2rem;
+    border-radius: 0.4rem;
+}
+
+.two-btn{
+    float: right;
+}
+
