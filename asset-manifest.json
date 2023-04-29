@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rupeshkr8252/reactForm.git/static/css/main.f5179857.css",
+    "main.js": "/rupeshkr8252/reactForm.git/static/js/main.c8414aa4.js",
+    "static/media/success icon component.png": "/rupeshkr8252/reactForm.git/static/media/success icon component.9acbbca4ecf820ed0d93.png",
+    "index.html": "/rupeshkr8252/reactForm.git/index.html",
+    "main.f5179857.css.map": "/rupeshkr8252/reactForm.git/static/css/main.f5179857.css.map",
+    "main.c8414aa4.js.map": "/rupeshkr8252/reactForm.git/static/js/main.c8414aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5179857.css",
+    "static/js/main.c8414aa4.js"
+  ]
+}
