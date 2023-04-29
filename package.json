@@ -1,7 +1,7 @@
 {
   "name": "formtask",
   "version": "0.1.0",
-  "homepage": "https://github.com/rupeshkr8252/reactForm.git",
+  "homepage": "https://rupeshkr8252.github.io/reactForm/",
   "private": true,
   "dependencies": {
     "@hookform/error-message": "^2.0.1",
