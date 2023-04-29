@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import "./Form.css";
 // import {useFormik} from "formik";
 import { useForm } from 'react-hook-form';
-import Submitted from './Submitted';
+// import Submitted from './Submitted';
 // import { enquiry } from '../repository/enquiry';
 import {yupResolver} from '@hookform/resolvers/yup';
 import * as Yup from 'yup';
@@ -61,7 +61,7 @@ const initialValues = {
 
 
 const Form = () => {
-  const [openModal, setOpenModal] = useState(false);
+  // const [openModal, setOpenModal] = useState(false);
 
   // const { errors , handleSubmit} = useFormik({
   //   initialValues: initialValues,
@@ -542,22 +542,15 @@ const Form = () => {
 
               
 
-            <div
-              style={{
-                display: "flex",
-                justifyContent: "center",
-                // marginTop: "16px",
-              }}
-            >
+            
             <button type="submit" class="submit-btn btn  btn-success ms-5" onClick={submitData} 
            >SUBMIT<br/>.(S).</button>
-           </div>
 
             </div>
 
             </form>
 
-            {openModal && <Submitted closeModal={setOpenModal} />}
+            {/* {openModal && <Submitted closeModal={setOpenModal} />} */}
         </div>
        
    </>
