@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rupeshkr8252/reactForm.git/static/css/main.5abfe56a.css",
-    "main.js": "/rupeshkr8252/reactForm.git/static/js/main.155d52dc.js",
-    "index.html": "/rupeshkr8252/reactForm.git/index.html",
-    "main.5abfe56a.css.map": "/rupeshkr8252/reactForm.git/static/css/main.5abfe56a.css.map",
-    "main.155d52dc.js.map": "/rupeshkr8252/reactForm.git/static/js/main.155d52dc.js.map"
+    "main.css": "/reactForm/static/css/main.5abfe56a.css",
+    "main.js": "/reactForm/static/js/main.155d52dc.js",
+    "index.html": "/reactForm/index.html",
+    "main.5abfe56a.css.map": "/reactForm/static/css/main.5abfe56a.css.map",
+    "main.155d52dc.js.map": "/reactForm/static/js/main.155d52dc.js.map"
   },
   "entrypoints": [
     "static/css/main.5abfe56a.css",
